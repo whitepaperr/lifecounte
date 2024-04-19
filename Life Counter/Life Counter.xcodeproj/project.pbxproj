@@ -16,6 +16,8 @@
 		CD894B202BCF22C600B13FAD /* Life_CounterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD894B1F2BCF22C600B13FAD /* Life_CounterTests.swift */; };
 		CD894B2A2BCF22C600B13FAD /* Life_CounterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD894B292BCF22C600B13FAD /* Life_CounterUITests.swift */; };
 		CD894B2C2BCF22C600B13FAD /* Life_CounterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD894B2B2BCF22C600B13FAD /* Life_CounterUITestsLaunchTests.swift */; };
+		CD894B392BD1E12B00B13FAD /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD894B382BD1E12B00B13FAD /* HistoryViewController.swift */; };
+		CD894B3B2BD1E4F800B13FAD /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD894B3A2BD1E4F800B13FAD /* PlayerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		CD894B252BCF22C600B13FAD /* Life CounterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Life CounterUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD894B292BCF22C600B13FAD /* Life_CounterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Life_CounterUITests.swift; sourceTree = "<group>"; };
 		CD894B2B2BCF22C600B13FAD /* Life_CounterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Life_CounterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CD894B382BD1E12B00B13FAD /* HistoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
+		CD894B3A2BD1E4F800B13FAD /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				CD894B082BCF22C400B13FAD /* AppDelegate.swift */,
 				CD894B0A2BCF22C400B13FAD /* SceneDelegate.swift */,
 				CD894B0C2BCF22C400B13FAD /* ViewController.swift */,
+				CD894B3A2BD1E4F800B13FAD /* PlayerView.swift */,
+				CD894B382BD1E12B00B13FAD /* HistoryViewController.swift */,
 				CD894B0E2BCF22C400B13FAD /* Main.storyboard */,
 				CD894B112BCF22C600B13FAD /* Assets.xcassets */,
 				CD894B132BCF22C600B13FAD /* LaunchScreen.storyboard */,
@@ -261,6 +267,8 @@
 				CD894B0D2BCF22C400B13FAD /* ViewController.swift in Sources */,
 				CD894B092BCF22C400B13FAD /* AppDelegate.swift in Sources */,
 				CD894B0B2BCF22C400B13FAD /* SceneDelegate.swift in Sources */,
+				CD894B3B2BD1E4F800B13FAD /* PlayerView.swift in Sources */,
+				CD894B392BD1E12B00B13FAD /* HistoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
